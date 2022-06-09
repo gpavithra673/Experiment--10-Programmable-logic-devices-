@@ -30,6 +30,7 @@ At the end give endmodule.
 ## Step 6:
 Run the program and choose RTL viewer to get RTL realization.
 ### PROGRAM :
+```
 ### Program for PROM: 
 ### Developed by: G.Pavithra
 ### RegisterNumber:  212221240036
@@ -52,6 +53,7 @@ ROM[14]=16'h5601; ROM[15]=16'h5401;
 out=ROM[addr];
 end
 endmodule
+```
 ### RTL LOGIC : 
 ![output](rtl.png)
 ### TIMING DIGRAMS  :
